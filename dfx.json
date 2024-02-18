@@ -9,11 +9,10 @@
         "dfx_project_backend"
       ],
       "frontend": {
-        "entrypoint": "src/dfx_project_frontend/src/index.html"
+        "entrypoint": "build/index.html"
       },
       "source": [
-        "src/dfx_project_frontend/assets",
-        "dist/dfx_project_frontend/"
+        "build"
       ],
       "type": "assets"
     }
